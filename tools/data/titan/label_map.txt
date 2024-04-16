@@ -1,0 +1,19 @@
+1: adult
+2: child
+3: senior
+4: walk
+5: stand
+6: run
+7: sit
+8: bow
+10: take the zebra-crossing
+11: jaywalk
+12: wait for passing
+13: walk on the roadside
+14: ride bike
+17: deliver goods
+23: talk with others
+24: look at phone or something else
+25: talk on the phone
+28: load
+29: unload
