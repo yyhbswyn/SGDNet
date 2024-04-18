@@ -14,7 +14,7 @@ About the basic usage of MMAction2, please see [getting_started.md](docs/getting
 Our constructed TITAN-Human Action dataset utilized raw data from the paper [TITAN: Future Forecast using Action Priors](https://arxiv.org/abs/2003.13886) ,it published at CVPR 2020.
 If you need to access the raw data, please contact the authors of [TITAN](https://usa.honda-ri.com/titan).
 
-You can obtain the relevant files used in our paper from [here], including the embedding file, dataset annotation files, and files used for loading data.
+You can obtain the relevant files used in our paper from [here](https://pan.baidu.com/s/1R4EpwGraRI29gBuf7_jtCg?pwd=nxbw), including the embedding file, dataset annotation files, and files used for loading data.
 
 
 ## Model Evaluation
